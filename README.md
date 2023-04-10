@@ -34,6 +34,7 @@ Save the final data set into the file
 
 ## PROGRAM
 Name : Karpagakirthika.V
+
 Register Number : 212221220025
 
 import pandas as pd
@@ -114,17 +115,22 @@ sns.heatmap(df.corr(),annot=True)
 
 ![image](https://user-images.githubusercontent.com/103020162/230835161-e995dde6-7780-49b0-8a58-80465985de64.png)
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/103020162/230836682-9d4ada66-cda0-4a04-9653-82cca29118b9.png)
+
+![image](https://user-images.githubusercontent.com/103020162/230837223-53a5f49b-dbb3-439f-a3c0-b0c5284dde56.png)
+
+
 
 
 ## CORRELATION COEFFICIENT INTERPRETATION
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/103020162/230837029-02f514cd-3a64-447b-bce2-fba966d6cf77.png)
 
 
 ## HEATMAP
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/103020162/230837067-52027eaf-a37f-4b49-946e-541e75cea65d.png)
+
 
 
 ## RESULT
